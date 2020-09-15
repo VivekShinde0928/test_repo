@@ -1,6 +1,6 @@
 # My API
 
-## Installation
+# Installation
 '''
 pip install Flask
 python app.py
